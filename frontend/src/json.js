@@ -40,7 +40,7 @@ const surveyJson = {
         },
         "inputType": "number"
        },
-       {
+       /*{
         "type": "text",
         "name": "height",
         "title": {
@@ -103,7 +103,7 @@ const surveyJson = {
         "title": {
          "fa": "سابقه ی سقط داشته اید؟ توضیح دهید"
         }
-       }
+       }*/
       ]
      }
     ],
